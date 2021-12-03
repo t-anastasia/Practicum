@@ -1,0 +1,93 @@
+.h1{
+    font-family: "Open Sans", sans-serif;
+	font-size: 30px;
+	line-height: 22px;
+	font-weight: 700;
+	letter-spacing: 0.05em;
+	color: #212121;
+	text-align: center;
+}
+.h2{
+	font-size: 20px;
+	line-height: 22px;
+	font-weight: 600;
+	letter-spacing: 0.05em;
+	color: #212121;
+}
+
+.p{
+	font-family: "Open Sans", sans-serif;
+	font-size: 15px;
+	line-height: 22px;
+	font-weight: 400;
+	letter-spacing: 0.05em;
+	color: #212121;
+	text-align: center;
+}
+
+.open{
+	font-family: "Open Sans", sans-serif;
+	color: #212121;
+	line-height: 22px;
+	letter-spacing: 0.05em;
+}
+
+.wrapper-row {
+   display: flex;
+   height: 675px;
+   flex-direction: column;
+}
+
+.flex-row{
+	display: flex;
+}
+
+.space{
+	min-height: 125px;
+}
+
+.row-2{
+	display: flex;
+	min-height: 100px;
+}
+
+.block-1{
+
+	margin-left: 28%;
+	width: 44%;
+	height: 100%;
+	text-align: center;
+}
+
+.row-4{
+	display: flex;
+	min-height: 200px;
+}
+
+.block-2{
+	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 12%;
+	justify-content: space-between;
+	width: 76%;
+	height: 100%;
+}
+
+.item{
+	min-width: 250px;
+	width: 24%;
+	height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
