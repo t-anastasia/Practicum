@@ -1,0 +1,137 @@
+h1 {
+   font-size: 40px;
+   font-family: "Arial - Bold MT", sans-serif;
+   color: #525252;
+   text-transform: uppercase;
+   white-space: nowrap;
+   padding-top: 30px;
+}
+
+p {
+   font-size: 18px;
+   font-family: "Arial MT", sans-serif;
+   color: #404040;
+}
+
+
+
+.wrapper {
+   display: flex;
+   overflow: hidden;
+   flex-direction: column;
+   background:#efefef;
+}
+
+
+
+header{
+   display: flex;
+   background:#626262;
+   max-width: 100%;
+   max-height: 6%;
+   align-items: flex-end;
+   justify-content: space-around;
+   min-height: 75px;
+}
+
+
+.nav{
+   display: flex;
+   margin-left: 50%;
+}
+
+.topnav{
+   display:flex;
+   align-items: flex-end;
+}
+
+.el {
+  min-width: 150px;
+}
+
+.topnav a{
+  color: #FFCBBB;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration:none;
+  font-family: "Arial MT", sans-serif;
+
+  
+}
+
+.topnav a:hover{
+   border-bottom: 4px solid #B3446C;
+}
+
+.topnav
+
+
+
+
+
+
+
+.content-container {
+   background:#aaaaaa;
+}
+
+.content-container ul{
+   display: flex;
+   flex-direction: row;
+   background:#bbbbbb;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   align-items: stretch;
+   
+}
+
+.content-container li{
+   display: block;
+   max-width:  400px;
+   max-height: 400px;
+   background: #cccccc;
+}
+
+.paiting{
+   display: flex;
+   max-width:100%;
+   max-height:100%;
+   margin:auto;
+   background-position: 0 0; 
+   background-repeat: no-repeat; 
+   background-size: cover;
+   
+}
+
+.shift{
+   margin: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
