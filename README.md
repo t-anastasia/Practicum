@@ -4,7 +4,7 @@
 #### [Результат практической 1](https://reverent-bohr-58d0aa.netlify.app)
 #### [Практическая 1](https://github.com/t-anastasia/Practicum/tree/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201%20(%D0%A2%D0%B5%D1%80%D0%B5%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%D0%B0))
 
-......
+------
 #### [Результат практической 2](https://wonderful-turing-7c2dd0.netlify.app)
 #### [Практическая 2](https://github.com/t-anastasia/Practicum/tree/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202%20(%D0%A2%D0%B5%D1%80%D0%B5%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%D0%B0))
 
